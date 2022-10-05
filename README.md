@@ -1,3 +1,5 @@
+# IMPORTANT: This was a collaborative project between me and a fellow student. Sadly, as the original repository is private and is not administered by me, I cannot share   the totality of the project work, but only the final product.
+
 # H20_project2_ludvikbj_thashiat
 Project 2 for ludvikbj (ludvikbj@mail.uio.no) and thashiat (thashiat@mail.uio.no)
 
